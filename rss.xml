@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[JasonWaWa]]></title>
         <description><![CDATA[JasonWaWa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jasonwawa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 18:06:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Dec 2015 18:20:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jasonwawa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OneSite]]></title>
+            <description><![CDATA[<article><h1>OneSite</h1><p>Adaptiva OneSite is award-winning software that Fortune 500 companies use to run SCCM from a single site with no DPs for distribution, and no impact to business WAN traffic. The game-changing OneSi...</p><img src="http://www.adaptiva.com/wp-content/uploads/OneSite-Diagram.png"></article>]]></description>
+            <link>http://www.adaptiva.com/onesite/</link>
+            <guid isPermaLink="false">0292b28e-f8ec-4c70-b2bc-e6a5ca2b9459</guid>
+            <pubDate>Tue, 01 Dec 2015 18:20:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedc46c9b67-9f5a-4ba6-8a85-407bc5573442/index.html</link>
+            <link>https://thegrid.ai/jasonwawa/c46c9b67-9f5a-4ba6-8a85-407bc5573442/index.html</link>
             <guid isPermaLink="false">c46c9b67-9f5a-4ba6-8a85-407bc5573442</guid>
             <pubDate>Tue, 01 Dec 2015 18:06:10 GMT</pubDate>
         </item>
