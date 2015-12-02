@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[JasonWaWa]]></title>
         <description><![CDATA[JasonWaWa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jasonwawa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 10:10:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Dec 2015 10:57:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jasonwawa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shields up on potentially unwanted applications in your enterprise]]></title>
+            <description><![CDATA[<article><h1>Shields up on potentially unwanted applications in your enterprise</h1><p>Has your enterprise environment been bogged down by a sneaky browser-modifier which tricked you into installing adware from a seemingly harmless software bundle? Then you might have already experienced what a potentially unwanted application (PUA) can do. The good news is, the new opt-in feature for enterprise users in Windows can spot and stop PUA in its tracks.</p><img src="http://www.microsoft.com/security/portal/blog-images/a/PUA_scep.png"></article>]]></description>
+            <link>http://blogs.technet.com/b/mmpc/archive/2015/11/25/shields-up-on-potentially-unwanted-applications-in-your-enterprise.aspx</link>
+            <guid isPermaLink="false">5a1e586e-c915-44e3-a283-d13acf2668e0</guid>
+            <pubDate>Wed, 02 Dec 2015 10:56:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Technical Reference for Cryptographic Controls Used in Configuration Manager]]></title>
             <description><![CDATA[<article><h1>Technical Reference for Cryptographic Controls Used in Configuration Manager</h1><p>Updated: May 14, 2015 Information in Configuration Manager can be signed and encrypted, regardless of whether you use PKI certificates with Configuration Manager. Client policy assignments are signed by the self-signed site server signing certificate to help prevent the security risk of a compromised management point sending policies that have been tampered with.</p></article>]]></description>
