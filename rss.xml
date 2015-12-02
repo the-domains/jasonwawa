@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JasonWaWa]]></title>
+        <description><![CDATA[JasonWaWa]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Dec 2015 10:10:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Technical Reference for Cryptographic Controls Used in Configuration Manager]]></title>
+            <description><![CDATA[<article><h1>Technical Reference for Cryptographic Controls Used in Configuration Manager</h1><p>Updated: May 14, 2015 Information in Configuration Manager can be signed and encrypted, regardless of whether you use PKI certificates with Configuration Manager. Client policy assignments are signed by the self-signed site server signing certificate to help prevent the security risk of a compromised management point sending policies that have been tampered with.</p></article>]]></description>
+            <link>https://technet.microsoft.com/en-us/library/hh427327.aspx</link>
+            <guid isPermaLink="false">f8692949-8fa2-49a5-a63c-1fd8459a7528</guid>
+            <pubDate>Wed, 02 Dec 2015 10:10:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
